@@ -18,6 +18,18 @@
 
 ---
 
+> [!CAUTION]
+> **禁止任何形式的转载或发布至🇨🇳大陆平台**
+>
+> Any form of reprinting or posting to the 🇨🇳 mainland platform is prohibited.
+
+> [!WARNING]
+> **中国大陆用户使用请遵守本国法律法规**
+>
+> Mainland China users please abide by the laws and regulations of your country.
+
+---
+
 ## 📂 配置分类导航 (Categories)
 
 > 请点击卡片标题进入对应文件夹查看详细列表。
@@ -75,9 +87,15 @@
 | :---: | :--- | :--- | :--- |
 | 🐧 | **Mihomo Core** | 🟢 **核心文件** (无界面) | [Github Releases](https://github.com/vernesong/mihomo/releases) |
 | 🪟 | **Clash Verge Rev** | 🟢 Windows 推荐，界面美观 | [Github Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
-| 🤖 | **Clash Meta for Android** | 🟡 停止更新 (但仍好用) | [Github Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) |
-| 🤖 | **FlClash** | 🟢 Android/PC 新秀 (Flutter) | [Github Releases](https://github.com/chen08209/FlClash/releases) |
+| 🪟 | **Sparkle** | 🟢 Windows 新秀 | [Github Releases](https://github.com/xishang0128/sparkle) |
 | 🍎 | **Clash Verge Rev** | 🟢 macOS 推荐 | [Github Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
+| 🤖 | **FlClash** | 🟢 Android/PC/Mac (Flutter) | [Github Releases](https://github.com/chen08209/FlClash/releases) |
+| 🤖 | **Clash Meta for Android** | 🟡 停止更新 (但仍好用) | [Github Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) |
+| 📱 | **Pharos Pro** | 🟢 iOS 推荐 | [App Store](https://apps.apple.com/us/app/pharos-pro/id1456610173) |
+| 📱 | **Stash** | 🟢 iOS (收费) | [App Store](https://apps.apple.com/app/stash/id1596063349) |
+| 📱 | **ClashBox** | 🟢 HarmonyOS (鸿蒙) | [Github Releases](https://github.com/xiaobaigroup/ClashBox) |
+| 🌐 | **Nikki** | 🟢 OpenWrt 插件 | [Github Releases](https://github.com/nikkinikki-org/OpenWrt-nikki) |
+| 🌐 | **OpenClash** | 🟢 OpenWrt 经典插件 | [Github Releases](https://github.com/vernesong/OpenClash) |
 
 ---
 
@@ -87,6 +105,24 @@
 2.  在子页面的表格中，浏览并找到你需要的 `.yaml` 配置。
 3.  点击对应行的 **"查看配置"** 链接。
 4.  在文件详情页，点击右上角的 `Raw` 按钮获取直链，或者直接复制内容到你的客户端中。
+
+### 🚫 广告拦截效果测试 (AdBlock Test)
+如果使用了去广告配置，可访问以下网站测试拦截效果：
+* [AdBlock Tester](https://adblock-tester.com)
+* [Block Ads! Adblock test](https://blockads.fivefilters.org/)
+* [Ad Blocker Test](https://adblock.turtlecute.org/)
+
+---
+
+## ⚖️ 免责申明 (Disclaimer)
+
+> [!IMPORTANT]
+> **任何以任何方式查看此项目的人或直接或间接使用该项目的使用者都应仔细阅读此声明。**
+>
+> 1.  本项目涉及的文件仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断。
+> 2.  **请勿将本项目的任何内容用于商业或非法目的，否则后果自负。**
+> 3.  一旦使用并复制了该项目的任何文件，则视为您已接受此免责声明。
+> 4.  保留随时更改或补充此免责声明的权利。
 
 ---
 
@@ -156,5 +192,11 @@
 
 </details>
 
-> ⚠️ **免责声明**: 本仓库仅作为配置文件的自动化搬运与归档工具，所有配置文件的版权归原作者所有。
+---
 
+> [!TIP]
+> **Life is a two-way street. This is a simple, profound, and undeniable truth.**
+>
+> 如果你在使用过程中遇到问题或有任何建议，欢迎指出。请确保你的帖子包含对他人有用的细节与信息，并通过 GitHub 社区分享你的发现。
+>
+> If you find this project helpful, please click ⭐Star in the upper-right corner to support us — and help more people discover and use it.
