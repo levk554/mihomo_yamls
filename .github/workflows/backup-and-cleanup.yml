@@ -100,7 +100,7 @@ jobs:
           echo "✅ 清单生成完毕，打包完成。"
 
       - name: 发布 Release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           tag_name: "backup-${{ env.TIMESTAMP }}"
           name: "📅 自动备份: ${{ env.TIMESTAMP }}"
