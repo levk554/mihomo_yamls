@@ -11,7 +11,7 @@
 [![Issues](https://img.shields.io/github/issues/HenryChiao/mihomo_yamls?style=flat-square&logo=github&color=0969da)](https://github.com/HenryChiao/mihomo_yamls/issues)
 [![License](https://img.shields.io/github/license/HenryChiao/mihomo_yamls?style=flat-square&color=546e7a)](./LICENSE)
 
-[📖 开始使用](./THE_REAL_README.md) &nbsp;|&nbsp; [🛠️ 规则说明](./RULESET_README.md) &nbsp;|&nbsp; [💬 反馈问题](https://github.com/HenryChiao/mihomo_yamls/issues)
+[📖 开始使用](./THE_REAL_README.md) &nbsp;|&nbsp; [🛠️ 规则说明](./RULESET_README.md) &nbsp;|&nbsp; [💐 致谢名单](./RULESETSOURCE_README.md) &nbsp;|&nbsp; [💬 反馈问题](https://github.com/HenryChiao/mihomo_yamls/issues)
 
 </div>
 
@@ -21,6 +21,7 @@
 
 - **每日更新**：自动化脚本每日抓取，确保配置与规则保持最新。
 - **严格分类**：拒绝杂乱，提供清晰的分类逻辑，满足不同场景需求。
+- **透明来源**：[数据源自开源社区](./RULESETSOURCE_README.md)，整合优质资源，纯净无后门。
 - **开箱即用**：专为新手优化，无需复杂配置，导入即可畅享流畅体验。
 
 ---
@@ -39,7 +40,7 @@
 
 <table width="100%">
     <tr>
-        <td width="50%" align="center">
+        <td width="33%" align="center">
             <h3>完整使用文档</h3>
             <p>从下载到进阶的全方位指南</p>
             <a href="./THE_REAL_README.md">
@@ -52,7 +53,7 @@
                 <li>常见问题排查 (FAQ)</li>
             </ul>
         </td>
-        <td width="50%" align="center">
+        <td width="33%" align="center">
             <h3>规则集说明</h3>
             <p>深入了解分流机制与自定义</p>
             <a href="./RULESET_README.md">
@@ -63,6 +64,19 @@
                 <li>规则集详细介绍</li>
                 <li>分流原理浅析</li>
                 <li>自定义规则教程</li>
+            </ul>
+        </td>
+         <td width="33%" align="center">
+            <h3>常见规则集来源</h3>
+            <p>感谢上游开源项目的贡献</p>
+            <a href="./RULESETSOURCE_README.md">
+                <img src="https://img.shields.io/badge/点击查看-Credits-pink?style=for-the-badge&logo=github" alt="Credits">
+            </a>
+            <br/><br/>
+            <ul align="left">
+                <li>核心数据库来源</li>
+                <li>规则集维护者</li>
+                <li>图标与其他资源</li>
             </ul>
         </td>
     </tr>
