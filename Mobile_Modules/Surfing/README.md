@@ -7,8 +7,8 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 config.yaml
-- **大小**: 18.9 KB
-- **链接**: [查看源码](https://github.com/HenryChiao/mihomo_yamls/blob/main/Mobile_Modules/Surfing/config.yaml)
+- **大小**: 19.0 KB
+- **链接**: [查看源码](https://github.com/levk554/mihomo_yamls/blob/main/Mobile_Modules/Surfing/config.yaml)
 
 #### 📶 网络端口配置 (Ports)
 | 类型 | 端口/地址 | 说明 |
@@ -62,4 +62,4 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `config.yaml` | 18.9 KB | [查看](https://github.com/HenryChiao/mihomo_yamls/blob/main/Mobile_Modules/Surfing/config.yaml) |
+| `config.yaml` | 19.0 KB | [查看](https://github.com/levk554/mihomo_yamls/blob/main/Mobile_Modules/Surfing/config.yaml) |
