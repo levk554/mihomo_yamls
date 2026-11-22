@@ -6,23 +6,23 @@
 
 ## ⚔️ 配置横向对比
 
-| 特性 | `MihomoSmartProMax.yaml` | `MihomoSmartAIO.yaml` | `THESmart.yaml` | `MihomoSmartProPlus.yaml` |
+| 特性 | `THESmart.yaml` | `MihomoSmartAIO.yaml` | `MihomoSmartProMax.yaml` | `MihomoSmartProPlus.yaml` |
 | :--- | :--- | :--- | :--- | :--- |
-| **大小** | 23.6 KB | 30.2 KB | 24.9 KB | 24.1 KB |
+| **大小** | 24.9 KB | 30.2 KB | 23.6 KB | 24.1 KB |
 | **混合端口** | 7893 | 7893 | 7893 | 7893 |
-| **面板地址** | 127.0.0.1:9090 | 127.0.0.1:9090 | 0.0.0.0:9090 | 127.0.0.1:9090 |
+| **面板地址** | 0.0.0.0:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 |
 | **运行模式** | rule | rule | rule | rule |
-| **TUN** | 🚫 | 🚫 | ✅ | 🚫 |
-| **策略组** | **41** | **69** | **40** | **41** |
-| **规则数** | **45** | **52** | **43** | **44** |
+| **TUN** | ✅ | 🚫 | 🚫 | 🚫 |
+| **策略组** | **40** | **69** | **41** | **41** |
+| **规则数** | **43** | **52** | **45** | **44** |
 
 ## 📄 配置详情
 
-#### 📝 MihomoSmartProMax.yaml
-- **路径**: `MihomoSmartProMax.yaml` | **大小**: 23.6 KB | [查看源码](https://github.com/levk554/mihomo_yamls/blob/main/THEYAMLS/Smart_Mode/HenryChiao/MihomoSmartProMax.yaml)
-- **模式**: rule | **TUN**: 🚫 | **IPv6**: ✅
+#### 📝 THESmart.yaml
+- **路径**: `THESmart.yaml` | **大小**: 24.9 KB | [查看源码](https://github.com/levk554/mihomo_yamls/blob/main/THEYAMLS/Smart_Mode/HenryChiao/THESmart.yaml)
+- **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
-<summary>🔍 策略组 (41个)</summary>
+<summary>🔍 策略组 (40个)</summary>
 
 | 名称 | 类型 |
 | :--- | :--- |
@@ -33,7 +33,6 @@
 | 👆 兜底流量 | `select` |
 | 👆 直接连接 | `select` |
 | 👆 网络测试 | `select` |
-| 👆 UKwifi | `select` |
 | 👆 抖快书定位 | `select` |
 | 👆 Emby服 | `select` |
 | 👆 油管视频 | `select` |
@@ -46,7 +45,8 @@
 | 👆 人工智能 | `select` |
 | 👆 货币平台 | `select` |
 | 👆 游戏平台 | `select` |
-| ... | 还有 21 个 |
+| 👆 Github | `select` |
+| ... | 还有 20 个 |
 </details>
 
 #### 📝 MihomoSmartAIO.yaml
@@ -80,11 +80,11 @@
 | ... | 还有 49 个 |
 </details>
 
-#### 📝 THESmart.yaml
-- **路径**: `THESmart.yaml` | **大小**: 24.9 KB | [查看源码](https://github.com/levk554/mihomo_yamls/blob/main/THEYAMLS/Smart_Mode/HenryChiao/THESmart.yaml)
-- **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
+#### 📝 MihomoSmartProMax.yaml
+- **路径**: `MihomoSmartProMax.yaml` | **大小**: 23.6 KB | [查看源码](https://github.com/levk554/mihomo_yamls/blob/main/THEYAMLS/Smart_Mode/HenryChiao/MihomoSmartProMax.yaml)
+- **模式**: rule | **TUN**: 🚫 | **IPv6**: ✅
 <details>
-<summary>🔍 策略组 (40个)</summary>
+<summary>🔍 策略组 (41个)</summary>
 
 | 名称 | 类型 |
 | :--- | :--- |
@@ -95,6 +95,7 @@
 | 👆 兜底流量 | `select` |
 | 👆 直接连接 | `select` |
 | 👆 网络测试 | `select` |
+| 👆 UKwifi | `select` |
 | 👆 抖快书定位 | `select` |
 | 👆 Emby服 | `select` |
 | 👆 油管视频 | `select` |
@@ -107,8 +108,7 @@
 | 👆 人工智能 | `select` |
 | 👆 货币平台 | `select` |
 | 👆 游戏平台 | `select` |
-| 👆 Github | `select` |
-| ... | 还有 20 个 |
+| ... | 还有 21 个 |
 </details>
 
 #### 📝 MihomoSmartProPlus.yaml
